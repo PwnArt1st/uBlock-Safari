@@ -20,9 +20,9 @@
 
 <strong> Just a final reminder, this is not for the non tech-savvy, if you dont know what you're doing, stick with whatever is in your browser's app store.</strong>
 
-Now that that's out of the way, to install you can either run 'git clone https://github.com/PwnArt1st/uBlock.git' or hit download zip.
-Next you will need to 'cd' to wherever you downloaded it to, then run 'chmod +x tools/make-*your browser*.sh' to make sure the script is executable.
-Finally, run 'tools/make-*your browser*.sh' to build the extension, which depending on your browser, you can find how to install yourself. The extension will be built into 'dist/'.
+Now that that's out of the way, to install you can either run `git clone https://github.com/PwnArt1st/uBlock.git` or hit download zip.
+Next you will need to `cd` to wherever you downloaded it to, then run `chmod +x tools/make-*your browser*.sh` to make sure the script is executable.
+Finally, run `tools/make-*your browser*.sh` to build the extension, which depending on your browser, you can find how to install yourself. The extension will be built into `dist/`.
 
 uBlock has tooltips throughout its UI to help you along. But just in case you need it, [here's a quick guide for basic usage](https://github.com/chrisaljoudi/uBlock/wiki/Quick-guide:-popup-user-interface).
 
