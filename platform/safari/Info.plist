@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Chris Aljoudi</string>
+	<string>Conor Randall</string>
 	<key>Builder Version</key>
-	<string>534.57.3</string>
+	<string>534.58.1</string>
 	<key>CFBundleDisplayName</key>
 	<string>{name}</string>
 	<key>CFBundleIdentifier</key>
@@ -83,8 +83,6 @@
 			<string>All</string>
 		</dict>
 	</dict>
-	<key>Update Manifest URL</key>
-	<string>https://www.ublock.org/Update.plist</string>
 	<key>Website</key>
 	<string>https://github.com/PwnArt1st/uBlock</string>
 </dict>
