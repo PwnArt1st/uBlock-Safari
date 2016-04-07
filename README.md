@@ -1,10 +1,5 @@
-<table width="100%">
-      <tr>
-      <td colspan="2">
-            <strong>uBlocke</strong>: an efficient blocker extension for your browser. Fast, potent, and lean.
-      </td>
-      </tr>
-</table>
+<h1>uBlock:</h1><strong> an efficient blocker extension for your browser. Fast, potent, and lean.</strong>
+
 
 * [Getting Started & Installation](#getting-started)
 * [Performance & Benchmarks](#performance)
@@ -91,10 +86,6 @@ uBlock is a general-purpose blocker — not an *ad blocker* specifically. uBlock
 
 uBlock blocks ads through its support of the [Adblock Plus filter syntax](https://adblockplus.org/en/filters). uBlock [extends](https://github.com/chrisaljoudi/uBlock/wiki/Filter-syntax-extensions) the syntax and is designed to work with custom rules and filters.
 
-Free and open-source. For users, by users. If uBlock is useful to you, [donations to support development are much appreciated](https://chrismatic.io/ublock/).    
+Free and open-source. For users, by users.
 
 *Acknowledgment:* uBlock comes with several filter lists ready to use out-of-the-box (including but not limited to: EasyList, Peter Lowe's, several malware filter lists). We deeply appreciate the people working hard to maintain those lists which are available to use by all for free.
-
-## License
-
-[GPLv3](https://github.com/chrisaljoudi/uBlock/blob/master/LICENSE.txt).
