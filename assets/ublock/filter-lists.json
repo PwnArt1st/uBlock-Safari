@@ -211,12 +211,6 @@
 		"lang": "ar",
 		"supportURL": "https://forums.lanik.us/viewforum.php?f=98"
 	},
-	"https://liste-ar-adblock.googlecode.com/hg/Liste_AR.txt": {
-		"off": true,
-		"title": "ara: Liste AR (obsolete, will be removed soon)",
-		"group": "regions",
-		"supportURL": "https://code.google.com/p/liste-ar-adblock/"
-	},
 	"http://margevicius.lt/easylistlithuania.txt": {
 		"off": true,
 		"title": "LTU: Adblock Plus Lithuania",
@@ -275,12 +269,6 @@
 		"title": "Dan Pollock’s hosts file",
 		"group": "multipurpose",
 		"supportURL": "http://someonewhocares.org/hosts/"
-	},
-	"https://spam404bl.com/spam404scamlist.txt": {
-		"off": true,
-		"title": "Spam404 (obsolete, will be removed)",
-		"group": "malware",
-		"supportURL": "http://www.spam404.com/"
 	},
 	"https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt": {
 		"off": true,
@@ -371,5 +359,11 @@
 		"group": "regions",
 		"lang": "sl",
 		"supportURL": "https://github.com/betterwebleon/slovenian-list"
+	},
+		"https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts": {
+		"off": true,
+		"title": "StevenBlack’s unified host file",
+		"group": "multipurpose",
+		"supportURL": "https://github.com/StevenBlack/hosts"
 	}
 }
