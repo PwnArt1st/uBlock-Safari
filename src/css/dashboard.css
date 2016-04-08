@@ -38,7 +38,7 @@ body {
     color: inherit;
     }
 .homepageLink:hover {
-    color: dodgerblue;
+    color: dodgerblue !important;
     }
 .tabButton {
     background-color: #ddd;

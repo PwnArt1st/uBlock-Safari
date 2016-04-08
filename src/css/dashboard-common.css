@@ -26,15 +26,15 @@ button {
     border-radius: 5px;
     border: 1px solid dimgray;
     cursor: pointer;
-    -webkit-transition: 0.2s background, 0.2s border, 0.2s box-shadow;
-    transition: 0.2s background, 0.2s border, 0.2s box-shadow;
+    -webkit-transition: 0.2s background, 0.2s border, 0.2s box-shadow !important;
+    transition: 0.2s background, 0.2s border, 0.2s box-shadow !important;
     }
 button:hover {
-    border-color: dodgerblue;
-    background: dodgerblue;
-    box-shadow: 0 0 15px rgba(0,0,0,0.4);
-    border-radius: 0;
-    color: white;
+    border-color: dodgerblue !important;
+    background: dodgerblue !important;
+    box-shadow: 0 0 15px rgba(0,0,0,0.4) !important;
+    border-radius: 0 !important;
+    color: white !important;
     }
 label {
     cursor: pointer;
